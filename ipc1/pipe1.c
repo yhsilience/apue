@@ -1,5 +1,5 @@
 #include "apue.h"
-
+/*匿名管道使用*/
 int
 main(void)
 {
